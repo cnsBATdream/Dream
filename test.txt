@@ -1,7 +1,0 @@
-GitHub的使用
-
-这是需要合并的分支
-
-version1
-
-version2
