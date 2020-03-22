@@ -6,7 +6,11 @@
 
     <groupId>org.Yum</groupId>
     <artifactId>AutoTest</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>HttpCDemo</module>
+    </modules>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -15,6 +19,8 @@
             <artifactId>testng</artifactId>
             <version>6.14.3</version>
         </dependency>
+
+
 
     </dependencies>
 
